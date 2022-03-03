@@ -1,6 +1,10 @@
 # App Setup
 
-This page will go over setting up a React application. If you would like a reference, or want a template for a project with all the setup complete, you can find it at [this link.](https://github.com/CityOfLangford/react_template)
+This page will go over setting up a React application. If you would like a reference, or want a template for a project with all the setup complete, you can find it at [this link.](https://github.com/CityOfLangford/react_template).
+
+Alternativly, you can use [Create React App](https://create-react-app.dev/) to quickly get started with a working project.
+
+Regardless, before we get started you will need to install [NodeJS](https://nodejs.org/en/), the most common JS runtime used for development.
 
 ## [Webpack](https://webpack.js.org/)
 
